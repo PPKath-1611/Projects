@@ -1,3 +1,3 @@
-# Spell Checker Program using Python
+# Project-O-Mania
 
-This is a program which uses TextBlob library to check the correct spelling of the word
+This repository is mandatorily made for developing and creating projects and certain mini projects.
